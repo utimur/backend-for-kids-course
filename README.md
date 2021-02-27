@@ -1,1 +1,1 @@
-# backend-for-kids-course
+# npm start - запуск
